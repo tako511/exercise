@@ -1,6 +1,6 @@
 package exercise;
 
-public class exercise {
+public class Exercise {
 	public static void main(String[] args) {
 		for (int A = 9;A > 0 && A < 10;A--) {
 			//使A等于9，并以1为单位逐渐减小直到A等于1
